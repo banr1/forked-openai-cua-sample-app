@@ -1,0 +1,6 @@
+{
+	"name": "forked-openai-cua-sample-app",
+	"dependencies": {
+		"@openai/codex": "^0.60.1"
+	}
+}

@@ -9,6 +9,16 @@ Get started building a [Computer Using Agent (CUA)](https://platform.openai.com/
 
 Set up python env and install dependencies.
 
+Using [`uv`](https://github.com/astral-sh/uv):
+
+```shell
+uv venv
+source .venv/bin/activate
+uv sync
+```
+
+Or using the standard library `venv` and `pip`:
+
 ```shell
 python3 -m venv .venv
 source .venv/bin/activate
